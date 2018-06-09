@@ -1,0 +1,9 @@
+{
+    "name": "microbx-registry",
+    "version": "0.0.1",
+    "license": "MIT",
+    "scripts": {
+        "start":
+            "verdaccio --listen 4873 --config ./config.yml"
+    }
+}
